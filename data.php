@@ -13,21 +13,7 @@ if ($username === 'admin' && $password === 'admin') {
 	echo "Invalid username or password";
 }
 ?>
-And here is an example homepage.html file:
 
-php
-Copy code
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Welcome to My Site</title>
-</head>
-<body>
-	<h1>Welcome to My Site!</h1>
-	<p>Thanks for logging in!</p>
-</body>
-</html>
-I hope this clears things up. Please let me know if you have any other questions!
 
 
 
